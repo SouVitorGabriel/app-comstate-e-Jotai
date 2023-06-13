@@ -31,6 +31,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <Alert>MUITA COISA AQUI</Alert>
+      <Alert variant="danger">MUITA COISA AQUI</Alert>
     </>
   );
 }
